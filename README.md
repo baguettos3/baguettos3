@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baguettos3
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: baguettos3@gmail.com
 
 <!---
